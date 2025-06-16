@@ -1,1 +1,1 @@
-# KanBan Board
+# Vanilla KanBanBoard
